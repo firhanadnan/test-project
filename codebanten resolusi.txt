@@ -1,5 +1,4 @@
 resolusi codebanten
- -konsisten menggunakan project
- -belajar hal-hal baru mengenai programming
- -kelola postingan di blog secara konsisten
- -selesaikan 2 project lainnya
+ - project baru skripsi mengenai e-surat
+ - membuat sistem siakad
+ - project dengan dispora banten
